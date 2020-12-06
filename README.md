@@ -27,3 +27,12 @@ install.packages(c("rvest", "data.table", "jsonlite"))
 * Create a pretydoc HTML where I can see the function and a the result of it.
 * Upload your code into github, and to module.
 * The deadline is november 23.
+
+#### Final project
+* Find a website that is interesting for you and contains some interesting data and download all of it.
+* Before you start, write me an email to validate if the site will be ok for the assignment.
+* Write to me the steps that you have to do to get the data.
+* The outcome should be an html where you write what you have done, show your functions and also create a small EDA(2-3 plots)
+* Clean the data and try to create a clean dataframe(s) at the end.
+* Write an intro at the beginning and summary at the end. 
+* The deadline is december 14.
